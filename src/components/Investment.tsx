@@ -68,7 +68,7 @@ const Investment = () => {
             <div className="text-center mb-8">
               <p className="text-sm text-muted-foreground mb-2">Valor individual das formações:</p>
               <p className="text-2xl text-muted-foreground line-through mb-2">R$ 3.380,00</p>
-              <p className="text-sm text-accent font-semibold mb-4">Desconto exclusivo da Black Friday</p>
+              <p className="text-sm text-accent font-semibold mb-4">Desconto exclusivo da Campanha de Virada</p>
               <p className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-2">R$ 2.700</p>
               <p className="text-lg text-muted-foreground">à vista no PIX ou em até 12x de R$ 270 no cartão de crédito</p>
             </div>

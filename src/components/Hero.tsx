@@ -1,5 +1,6 @@
 import { ChevronDown } from "lucide-react";
 import heroImage from "@/assets/hero-image.jpg";
+import logoVirada from "@/assets/logo-virada.png";
 
 const Hero = () => {
   return (
@@ -14,6 +15,12 @@ const Hero = () => {
       />
       
       <div className="container relative z-10 px-4 py-20 mx-auto text-center md:py-20 sm:py-32 sm:items-start">
+        <img 
+          src={logoVirada} 
+          alt="A Virada - Liga Maternar" 
+          className="mx-auto mb-8 w-48 md:w-64 lg:w-80 drop-shadow-2xl"
+        />
+        
         <h1 className="text-4xl md:text-6xl font-bold mb-6 text-white leading-tight drop-shadow-lg">
           O seu novo ciclo<br />começa aqui.
         </h1>
