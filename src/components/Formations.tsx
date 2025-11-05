@@ -6,27 +6,41 @@ import tapingImg from "../assets/testimonials/taping.png";
 const Formations = () => {
   const formations = [
     {
-      title: "Consultoria em Amamentação",
+      title: "Formação em Consultoria em Amamentação",
       image: maternidadeImg,
-      description: "Capacite-se profissionalmente para apoiar mães no processo de amamentação. Uma formação presencial completa, com base em evidências científicas, muita prática e visão de negócio.",
+      description: "Formação completa para atuar com técnica, sensibilidade e segurança no aleitamento materno.",
       features: [
-        "Anatomia e fisiologia da lactação",
-        "Manejo clínico da amamentação",
-        "Principais dificuldades e como solucioná-las",
-        "Comunicação empática e acolhimento",
-        "Como estruturar sua consultoria"
+        "Políticas públicas e diretrizes do aleitamento.",
+        "NBCAL e IBFAN: normas que protegem a amamentação.",
+        "Anatomia e fisiologia das mamas.",
+        "Técnicas de aconselhamento e escuta ativa.",
+        "Aspectos emocionais que interferem na lactação.",
+        "Avaliação da puérpera e do recém-nascido.",
+        "Manejo de intercorrências: mastite, ductos, hiperlactação e mais.",
+        "Alimentação materna e nutrição na amamentação.",
+        "Avaliação de frênulo lingual.",
+        "Papel e ética da consultora em amamentação.",
+        "Empreendedorismo e posicionamento profissional.",
+        "Casos clínicos e prática supervisionada."
       ]
     },
     {
-      title: "Taping + Drenagem Linfática",
+      title: "Curso de Taping + Drenagem Aplicados à Gestação, Pós-Parto e Amamentação",
       image: tapingImg,
-      description: "Domine a aplicação do Taping e da Drenagem Linfática Manual na gestação, pós-parto e como apoio à amamentação. Uma formação presencial e prática para você oferecer um cuidado complementar e muito requisitado.",
+      description: "Formação teórico-prática para aplicar taping e drenagem com segurança e resultados reais no cuidado materno.",
       features: [
-        "Fundamentos do taping terapêutico",
-        "Aplicações em gestantes (dor, edema, postura)",
-        "Aplicações em puérperas (diástase, cesariana)",
-        "Drenagem linfática no pós-parto",
-        "Protocolos de segurança e contraindicações"
+        "Fundamentos e princípios do taping terapêutico.",
+        "Estimulação tegumentar e alívio de dores.",
+        "Tipos de bandagem e aplicações clínicas.",
+        "Indicações, contraindicações e cuidados.",
+        "Preparo da pele e técnicas de aplicação.",
+        "Raciocínio clínico e planejamento do atendimento.",
+        "Aplicações em gestantes: dor lombar, edema e desconfortos.",
+        "Aplicações no pós-parto e amamentação.",
+        "Teoria e prática da drenagem linfática manual.",
+        "Sequência de manobras e ritmo de execução.",
+        "Combinação de taping + drenagem para melhores resultados.",
+        "Prática supervisionada e discussão de casos clínicos."
       ]
     }
   ];
