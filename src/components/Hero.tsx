@@ -18,7 +18,7 @@ const Hero = () => {
         <img 
           src={logoVirada} 
           alt="A Virada - Liga Maternar" 
-          className="mx-auto mb-8 w-48 md:w-64 lg:w-80 drop-shadow-2xl"
+          className="mx-auto mb-8 w-40 md:w-52 lg:w-64 drop-shadow-2xl"
         />
         
         <h1 className="text-4xl md:text-6xl font-bold mb-6 text-white leading-tight drop-shadow-lg">

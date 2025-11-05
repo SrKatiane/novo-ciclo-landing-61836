@@ -1,12 +1,13 @@
 import { Check } from "lucide-react";
-import consultoriaImg from "@/assets/consultoria-amamentacao.jpg";
-import tapingImg from "@/assets/taping-materno.jpg";
+import maternidadeImg from "../assets/testimonials/consultoria.png";
+import tapingImg from "../assets/testimonials/taping.png";
+
 
 const Formations = () => {
   const formations = [
     {
       title: "Consultoria em Amamentação",
-      image: consultoriaImg,
+      image: maternidadeImg,
       description: "Capacite-se profissionalmente para apoiar mães no processo de amamentação. Uma formação presencial completa, com base em evidências científicas, muita prática e visão de negócio.",
       features: [
         "Anatomia e fisiologia da lactação",

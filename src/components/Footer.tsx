@@ -32,7 +32,7 @@ const Footer = () => {
           
           <div className="border-t border-border pt-8 mt-12">
             <p className="text-sm text-muted-foreground">
-              © 2024 Liga Maternar. Todos os direitos reservados.
+              © 2025 Liga Maternar. Todos os direitos reservados.
             </p>
             <p className="text-xs text-muted-foreground mt-2">
               Uma jornada de transformação e propósito para profissionais da saúde que querem fazer a diferença.
